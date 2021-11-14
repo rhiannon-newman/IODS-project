@@ -3,6 +3,9 @@
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
 
+I am excited to complete this R course and learn more about open data science. I heard about this course through my PhD programme DPBM.
+Here is my GitHub repo: https://github.com/rhiannon-newman/IODS-project 
+
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
 
